@@ -15,4 +15,13 @@ This project collects historical tweets using the Twitter API v2 and saves them 
 ---
 
 ## Project Structure
-
+twitter-collector/
+├── TwitterCollector.py # Class for querying the API
+├── config.py # Loads Twitter API credentials from .env
+├── run_historical_collection.py # Script to run collection
+├── requirements.txt # pip environment
+├── environment.yml # conda environment (optional)
+├── search_terms.xlsx # Input Excel with search terms
+├── LICENSE
+├── README.md
+└── .env # API credentials (not committed)
