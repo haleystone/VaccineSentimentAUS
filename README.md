@@ -8,7 +8,7 @@ This project collects historical tweets using the Twitter API v2 and saves them 
 
 - Query historical tweets using specific search terms
 - Language-aware query construction
-- Location-based filtering (e.g., Australia for English)
+- Location-based filtering 
 - Data collection with place metadata
 - Integration with Jupyter notebooks or direct script use
 
