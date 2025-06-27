@@ -14,7 +14,7 @@ This project collects historical tweets using the Twitter API v2 and saves them 
 
 ---
 
-## Project Structure
+## Structure
 twitter-collector/
 
 ├── TwitterCollector.py # Class for querying the API
