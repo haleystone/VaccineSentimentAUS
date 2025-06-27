@@ -1,16 +1,18 @@
-# VaccineSentimentAUS
+# Twitter Historical Data Collector
 
+This project collects historical tweets using the Twitter API v2 and saves them for downstream analysis of public discourse across different languages.
 
-# Setting Up Enviroment
+---
 
-## pip
+## Features
 
-Assuming a system with Python version >= 3.10
+- Query historical tweets using specific search terms
+- Language-aware query construction
+- Location-based filtering (e.g., Australia for English)
+- Data collection with place metadata
+- Integration with Jupyter notebooks or direct script use
 
-    pip install -U pip -r requirements.txt
+---
 
-
-## Conda
-
-    conda env create -f environment.yml
+## Project Structure
 
